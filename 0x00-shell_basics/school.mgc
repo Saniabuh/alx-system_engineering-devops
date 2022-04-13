@@ -1,0 +1,3 @@
+#!/bin/bash
+echo 'string SCHOOL School data'
+echo '!:mime School'
