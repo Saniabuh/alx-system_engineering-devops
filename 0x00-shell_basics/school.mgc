@@ -1,2 +1,7 @@
 #!/bin/bash
+<<<<<<< HEAD
 !:mime school
+=======
+echo 'string SCHOOL School data'
+echo '!:mime School'
+>>>>>>> 98ce2be41064405f03676c36d86e152bc5c98b73
